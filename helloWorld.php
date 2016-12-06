@@ -1,3 +1,3 @@
 <?
-	echo "Hello World! g1";
+	echo "Hello World! HI!";
 ?>
